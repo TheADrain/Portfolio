@@ -6,10 +6,8 @@ todo:
 
 Iso-Chess was made in 2017 as a personal development project, just to see what it would be like to implement the full set of chess rules, including the en-passant and pawn promotion rules, as a 2-player game. 
 
-<img src="https://github.com/TheADrain/portfolio/blob/main/docs/unity/iso_chess_1.gif" alt="Chess 1" width="300"/>
+<img src="https://github.com/TheADrain/portfolio/blob/main/docs/unity/iso_chess_1.gif" alt="Chess 1" width="300"/> <img src="https://github.com/TheADrain/portfolio/blob/main/docs/unity/iso_chess_2.gif" alt="Chess 1" width="300"/>
 
-![Chess 1](https://github.com/TheADrain/portfolio/blob/main/docs/unity/iso_chess_1.gif)
-![Chess 2](https://github.com/TheADrain/portfolio/blob/main/docs/unity/iso_chess_2.gif)
 
 ## Kitty Quest
 
