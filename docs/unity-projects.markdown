@@ -14,7 +14,7 @@ Iso-Chess was made in 2017 as a personal development project, just to see what i
 
 It can be found on itch.io [here](https://theadrain.itch.io/retro-chess) as a WebGL player, alternatively a Win64 build is also available.
 
-<img src="https://github.com/TheADrain/portfolio/docs/unity/iso_chess_1.gif" alt="Chess 1" width="300"/> <img src="https://github.com/TheADrain/portfolio/blob/main/docs/unity/iso_chess_2.gif" alt="Chess 1" width="300"/>
+<img src="https://github.com/TheADrain/portfolio/blob/main/docs/unity/iso_chess_1.gif" alt="Chess 1" width="300"/> <img src="https://github.com/TheADrain/portfolio/blob/main/docs/unity/iso_chess_2.gif" alt="Chess 1" width="300"/>
 
 
 ## Kitty Quest
