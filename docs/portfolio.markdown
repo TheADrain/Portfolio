@@ -10,6 +10,8 @@ permalink: /portfolio/
 
 Made in 2017 for Puzzler under Finblade, this was the studios first Unity project with a development time of around 3 months on which I was responsible for the entirety of the client application. No longer available, however a trailer is still viewable on [YouTube](https://www.youtube.com/watch?v=f-LweWh4FoE) 
 
+![namegame]({{ "unity/namegame.PNG" | absolute_url }})
+
 <img src="unity/namegame.PNG" alt="Puzzler Name Game" width="250"/>
 
 ---
