@@ -2,7 +2,7 @@ title: Adrian Gordon
 author:
   name: Adrian Gordon
   email: theadrain@hotmail.co.uk
-baseurl: /portfolio
+baseurl: /portfolio/
 url: https://theadrain.github.io
 permalink: /:title
 description: 
