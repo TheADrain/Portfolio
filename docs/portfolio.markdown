@@ -13,6 +13,7 @@ Made in 2017 for Puzzler under Finblade, this was the studios first Unity projec
 ![namegame]({{ "unity/namegame.PNG" | absolute_url }})
 
 <img src="unity/namegame.PNG" alt="Puzzler Name Game" width="250"/>
+<img src="unity/namegame.PNG" alt="Puzzler Name Game" width="250"/>
 
 ---
 
