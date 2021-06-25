@@ -12,3 +12,7 @@ I was the client-side developer on this project, which primarily involved implem
 Puzzler World is a suite of 15 different apps that host different kinds of puzzle games including crosswords and image-based puzzles, I was responsible primarily for small updates and bugfixes during my time at Finblade Studios while working simultaneously on other projects. 
 
 [Puzzler World App](https://www.puzzler.com/digital-apps/mixed-puzzles/puzzler-world)
+
+<img src="other/puzzlew1.PNG" alt="Puzzler World 1" height="350"/>
+
+<img src="other/puzzlew2.PNG" alt="Puzzler World 2" height="350"/>
