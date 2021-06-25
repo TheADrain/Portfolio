@@ -6,7 +6,7 @@ permalink: /portfolio/
 
 ##Professional Projects
 
-##Personal Projects**
+##Personal Projects
 
 **Isometric Chess**
 
