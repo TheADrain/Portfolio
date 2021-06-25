@@ -14,7 +14,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: theadraindev
+    # twitter: adraindev
     github:  theadrain
     # devto: jekyll
     # dribbble: jekyll
