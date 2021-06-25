@@ -13,7 +13,7 @@ It can be found on itch.io [here](https://theadrain.itch.io/retro-chess) as a We
 
 ## Kitty Quest
 
-Kitty Quest was made in just 7 days for Gameboy Jam 2016 using Unity
+Kitty Quest was made in just 7 days for Gameboy Jam 2016 using Unity and features 5 levels across which the player must rescue an assortment of cute animal friends. In the short timeframe alloted to build the game, a simple pipeline was setup using Unitys scriptable importers in order to convert levels built in the open source map editor [Tiled](https://www.mapeditor.org/) to Unity GameObjects including placement of all level objects such as the animals, obstacles, enemies and one-way platforms. This work was done on the first day before the player movement was even implemented, to allow the artist to start crafting levels immediately. 
 
 <img src="https://github.com/TheADrain/portfolio/blob/main/docs/unity/kq1.gif" alt="Kitty Quest 1" width="400"/>
 
