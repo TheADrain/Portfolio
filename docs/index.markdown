@@ -3,6 +3,7 @@ layout: page
 title: About Me
 order: 1
 ---
+I like retro games, retro hardware and think the Arcade era faded too quickly. Sometimes I do game jams. 
 
 ## Work History
 
