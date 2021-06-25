@@ -26,9 +26,7 @@ url: "https://theadrain.github.io" # the base hostname & protocol for your site,
 github_username:  TheADrain
 
 header_pages: 
- - careerhistory.markdown
- - portfolio.markdown
- - contact.markdown
+ - careerhistory.md
 
 # Build settings
 theme: minima
