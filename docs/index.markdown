@@ -16,7 +16,7 @@ order: 1
 [unity-proj]: https://theadrain.github.io/portfolio/unity-projects
 [other-proj]: https://theadrain.github.io/portfolio/other-projects
 
-## **Work History**
+## Work History
 
 **Playdemic / Traveller's Tales** Game Programmer (2017 - Present)
 
@@ -28,4 +28,17 @@ order: 1
 
 ## Skillset
 
+* C# / .NET (5 years)
+* Unity Engine (4 yearS)
+* C++ (3 years)
+* Perforce (2 years)
+* C (2 years)
+* Javascript (1 year)
+* PostgreSQL (1 year)
+* Limited Java, LUA and XML
+* Limited Photoshop experience
+
 ## Education
+
+Southampton Solent University - BSc (Hons) Computer Games Programming
+First Class Honours Degree, 2008 - 2012
