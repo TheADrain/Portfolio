@@ -3,7 +3,7 @@ author:
   name: Adrian Gordon
   email: theadrain@hotmail.co.uk
 baseurl: /portfolio
-url: theadrain.github.io
+url: https://theadrain.github.io
 permalink: /:title
 description: 
 
