@@ -26,6 +26,6 @@ order: 1
 
 **Ludophobia** Company Director, Programmer (2012 - 2014)
 
-### Skillset
+## Skillset
 
-### Education
+## Education
