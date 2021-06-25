@@ -25,6 +25,11 @@ baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "https://theadrain.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  TheADrain
 
+header_pages: 
+  - resume.markdown
+  - portfolio.markdown
+  - contact.markdown
+
 # Build settings
 theme: minima
 plugins:
