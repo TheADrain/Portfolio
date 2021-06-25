@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-# Professional Projects
+## Professional Projects
 
 ## Personal Projects
 
