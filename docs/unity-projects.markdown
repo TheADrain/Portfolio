@@ -2,6 +2,12 @@
 todo:
 - project sally
 
+## Puzzler Name Game
+
+Made in 2017 for Puzzler under Finblade, this was the studios first Unity project with a development time of around 3 months on which I was responsible for the entirety of the client application. No longer available, however a trailer is still viewable on [YouTube](https://www.youtube.com/watch?v=f-LweWh4FoE) 
+
+
+
 ## Isometric Chess
 
 Iso-Chess was made in 2017 as a personal development project, just to see what it would be like to implement the full set of chess rules, including the en-passant and pawn promotion rules, as a 2-player game. It features selectable color palettes and a pixel-perfect render-scale based on the display resolution.
