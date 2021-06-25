@@ -15,10 +15,8 @@ It can be found on itch.io [here](https://theadrain.itch.io/retro-chess) as a We
 
 Kitty Quest was made in just 7 days for Gameboy Jam 2016 using Unity
 
-![Kitty Quest Image 1](https://github.com/TheADrain/portfolio/blob/main/docs/unity/kq1.gif)
+<img src="https://github.com/TheADrain/portfolio/blob/main/docs/unity/kq1.gif" alt="Kitty Quest 1" width="400"/>
 
-![Kitty Quest Image 2](https://github.com/TheADrain/portfolio/blob/main/docs/unity/kq2.gif)
+<img src="https://github.com/TheADrain/portfolio/blob/main/docs/unity/kq2.gif" alt="Kitty Quest 1" width="300"/> <img src="https://github.com/TheADrain/portfolio/blob/main/docs/unity/kq3.gif" alt="Kitty Quest 1" width="300"/> <img src="https://github.com/TheADrain/portfolio/blob/main/docs/unity/kq4.gif" alt="Kitty Quest 1" width="300"/>
 
-![Kitty Quest Image 3](https://github.com/TheADrain/portfolio/blob/main/docs/unity/kq3.gif)
 
-![Kitty Quest Image 4](https://github.com/TheADrain/portfolio/blob/main/docs/unity/kq4.gif)
