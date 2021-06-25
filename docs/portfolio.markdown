@@ -10,10 +10,7 @@ permalink: /portfolio/
 
 Made in 2017 for Puzzler under Finblade, this was the studios first Unity project with a development time of around 3 months on which I was responsible for the entirety of the client application. No longer available, however a trailer is still viewable on [YouTube](https://www.youtube.com/watch?v=f-LweWh4FoE) 
 
-![namegame]({{ "unity/namegame.PNG" | absolute_url }})
-
-<img src="unity/namegame.PNG" alt="Puzzler Name Game" width="250"/>
-<img src="unity/namegame.PNG" alt="Puzzler Name Game" width="250"/>
+<img src="{{site.baseurl}}unity/namegame.PNG" alt="Puzzler Name Game" width="250"/>
 
 ---
 
@@ -24,7 +21,7 @@ I was the client-side developer on this project, which primarily involved implem
 
 [Puzzler App](https://www.puzzler.com/digital-apps/word-puzzles/puzzler)
 
-<img src="{{site.baseurl}}other/puzzler1.PNG" alt="Puzzler 1" height="300"/><img src="{{site.url}}{{site.baseurl}}other/puzzler2.PNG" alt="Puzzler 2" height="300"/><img src="/other/puzzler3.PNG" alt="Puzzler 3" height="300"/>
+<img src="{{site.baseurl}}other/puzzler1.PNG" alt="Puzzler 1" height="300"/><img src="{{site.baseurl}}other/puzzler2.PNG" alt="Puzzler 2" height="300"/><img src="{{site.baseurl}}other/puzzler3.PNG" alt="Puzzler 3" height="300"/>
 
 ---
 
@@ -34,7 +31,7 @@ Puzzler World is a suite of 15 different apps that host different kinds of puzzl
 
 [Puzzler World App](https://www.puzzler.com/digital-apps/mixed-puzzles/puzzler-world)
 
-<img src="other/puzzlew1.PNG" alt="Puzzler World 1" height="200"> <img src="other/puzzlew2.PNG" alt="Puzzler World 2" height="200">
+<img src="{{site.baseurl}}other/puzzlew1.PNG" alt="Puzzler World 1" height="200"> <img src="{{site.baseurl}}other/puzzlew2.PNG" alt="Puzzler World 2" height="200">
 
 ---
 
@@ -54,13 +51,13 @@ Iso-Chess was made in 2017 as a personal development project, just to see what i
 
 It can be found on itch.io [here](https://theadrain.itch.io/retro-chess) as a WebGL player, alternatively a Win64 build is also available.
 
-<img src="unity/iso_chess_1.gif" alt="Chess 1" width="300"/> <img src="unity/iso_chess_2.gif" alt="Chess 1" width="300"/>
+<img src="{{site.baseurl}}unity/iso_chess_1.gif" alt="Chess 1" width="300"/> <img src="{{site.baseurl}}unity/iso_chess_2.gif" alt="Chess 1" width="300"/>
 
 ---
 **Kitty Quest (Unity)**
 
 Kitty Quest was made in just 7 days for Gameboy Jam 2016 using Unity and features 5 levels across which the player must rescue an assortment of cute animal friends. In the short timeframe alloted to build the game, a simple pipeline was setup using Unitys scriptable importers in order to convert levels built in the open source map editor [Tiled](https://www.mapeditor.org/) to Unity GameObjects including placement of all level objects such as the animals, obstacles, enemies and one-way platforms. This work was done on the first day before the player movement was even implemented, to allow the artist to start crafting levels immediately. 
 
-<img src="unity/kq1.gif" alt="Kitty Quest Logo" height="250"/> <img src="unity/kq4.gif" alt="Kitty Quest 1" height="250"/>
+<img src="{{site.baseurl}}unity/kq1.gif" alt="Kitty Quest Logo" height="250"/> <img src="{{site.baseurl}}unity/kq4.gif" alt="Kitty Quest 1" height="250"/>
 
-<img src="unity/kq2.gif" alt="Kitty Quest 1" width="250"/> <img src="unity/kq3.gif" alt="Kitty Quest 1" width="250"/> 
+<img src="{{site.baseurl}}unity/kq2.gif" alt="Kitty Quest 1" width="250"/> <img src="{{site.baseurl}}unity/kq3.gif" alt="Kitty Quest 1" width="250"/> 
