@@ -3,6 +3,7 @@ author:
   name: Adrian Gordon
   email: theadrain@hotmail.co.uk
 baseurl: https://theadrain.github.io/portfolio
+description: 
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
