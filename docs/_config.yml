@@ -51,7 +51,9 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - gameboy.markdown
-
+ - about.markdown
+ - contact.markdown
+ 
 
 # Build settings
 theme: minima
