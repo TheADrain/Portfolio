@@ -19,12 +19,31 @@ order: 1
 ## Work History
 
 **Playdemic / Traveller's Tales** Game Programmer (2017 - Present)
+- Undisclosed Project
+- Worked on a large range of diverse gameplay features
+- Worked with multiple game engines including Unity
+- Unity DOTS technology
 
 **Finblade** Junior Games Programmer (2015 - 2017)
+- Puzzler World (Maintenence, DLC)
+- Puzzler / Puzzle Paradise (Clientside development)
+- Puzzler Name Game (Clientside development)
+- iOS, Android and Amazon devices
+- XCode, Objective C, Cocos2D
 
 **MWR InfoSecurity** Junior Software Developer (2014 - 2015)
+- Undisclosed Project
+- PostgreSQL working with large amounts of data
+- Complex networked applications
+- C#, MVC .NET, Test-Driven Development
+- Simultaneous support for operating systems spanning Windows XP - Windows 8.1
 
 **Ludophobia** Company Director, Programmer (2012 - 2014)
+- An untitled racing game which was installed in Beaulieu Car Museum.
+- An interactive visualization of a historical building in 1400’s era Southampton
+- An independent Ouya racing game called ‘Bears Can’t Drift’ which included a 4-player split-screen.
+- Together with Cityscape I created an Oculus Rift off-road experience for JEEP
+
 
 ## Skillset
 
@@ -41,4 +60,5 @@ order: 1
 ## Education
 
 Southampton Solent University - BSc (Hons) Computer Games Programming
+
 First Class Honours Degree, 2008 - 2012
