@@ -43,6 +43,7 @@ Puzzler World is a suite of 15 different apps that host different kinds of puzzl
 todo
 
 <img src="{{site.baseurl}}other/gameboy4.gif" alt="gameboy1" width="350"/>    <img src="{{site.baseurl}}other/gameboy2.gif" alt="gameboy2" width="350"/> 
+
 <img src="{{site.baseurl}}other/gameboy3.gif" alt="gameboy3" width="350"/>    
 
 ---
