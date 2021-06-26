@@ -46,7 +46,7 @@ Built for the original Gameboy using a mix of C and ASM, using [GBDK](https://gi
 
 I also built a custom art pipeline that handles converting Tiled maps and associated tile sets, discarding duplicate tiles and producing collision data to either binary format, or ASM or C code.
 
-todo: images
+<img src="{{site.baseurl}}other/tools1.PNG" alt="tools1" height="300"/> <img src="{{site.baseurl}}other/tools2.PNG" alt="tools2" height="300"/>   
 
 ---
 
