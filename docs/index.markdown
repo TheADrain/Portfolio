@@ -31,7 +31,8 @@ I like retro games, retro hardware and think the Arcade era faded too quickly. S
 - An untitled racing game which was installed in Beaulieu Car Museum.
 - An interactive visualization of a historical building in 1400’s era Southampton
 - An independent Ouya racing game called ‘Bears Can’t Drift’ which included a 4-player split-screen.
-- Together with Cityscape I created an Oculus Rift off-road experience for JEEP
+- An Oculus Rift off-road experience for JEEP, in conjunction with Cityscape
+- Several other iOS/Android apps
 
 ## Skillset
 
