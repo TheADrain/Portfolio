@@ -67,4 +67,4 @@ Kitty Quest was made in just 7 days for Gameboy Jam 2016 using Unity and feature
 
 
 
-<img src="{{site.baseurl}}unity/kq2.gif" alt="Kitty Quest 1" width="250"/> <img src="{{site.baseurl}}unity/kq3.gif" alt="Kitty Quest 1" width="250"/> <img src="{{site.baseurl}}unity/kq4.gif" alt="Kitty Quest 1" height="230"/>
+<img src="{{site.baseurl}}unity/kq2.gif" alt="Kitty Quest 1" width="220"/> <img src="{{site.baseurl}}unity/kq3.gif" alt="Kitty Quest 1" width="220"/> <img src="{{site.baseurl}}unity/kq4.gif" alt="Kitty Quest 1" height="210"/>
