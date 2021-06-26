@@ -48,6 +48,8 @@ todo
 
 todo
 
+[Downloadable from itch.io](https://theadrain.itch.io/adventure-game-prototype)
+
 <img src="{{site.baseurl}}unity/adventure_matchbox.gif" alt="Adventure Game 1" width="350"/>    <img src="{{site.baseurl}}unity/camerasadventure_mystery.gif" alt="Adventure Game 2" width="350"/> 
 
 ---
