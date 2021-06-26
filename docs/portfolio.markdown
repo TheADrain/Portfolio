@@ -15,9 +15,9 @@ Made in 2017 for Puzzler under Finblade, this was the studios first Unity projec
 ---
 
 
-**Puzzler / Puzzle Paradise (Cocos2D, iOS, Android, Amazon)**
+**Puzzler (Cocos2D, iOS, Android, Amazon)**
 
-I was the client-side developer on this project, which primarily involved implementing word puzzle game mechanics and downloadable content handling.
+I developed the client application, which primarily involved implementing word puzzle game mechanics and downloadable content handling and push notifications.
 
 [Puzzler App](https://www.puzzler.com/digital-apps/word-puzzles/puzzler)
 
