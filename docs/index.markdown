@@ -34,11 +34,10 @@ I like retro games, retro hardware and think the Arcade era faded too quickly. S
 - An independent Ouya racing game called ‘Bears Can’t Drift’ which included a 4-player split-screen.
 - Together with Cityscape I created an Oculus Rift off-road experience for JEEP
 
-
 ## Skillset
 
 * C# / .NET (5 years)
-* Unity Engine (4 yearS)
+* Unity Engine (4 years)
 * C++ (3 years)
 * Perforce (2 years)
 * C (2 years)
