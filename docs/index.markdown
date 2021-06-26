@@ -17,6 +17,7 @@ I like retro games, retro hardware and think the Arcade era faded too quickly. S
 - Puzzler World (Maintenence, DLC)
 - Puzzler / Puzzle Paradise (Clientside development)
 - Puzzler Name Game (Clientside development)
+- Several undisclosed projects
 - iOS, Android and Amazon devices
 - XCode, Objective C, Cocos2D
 
