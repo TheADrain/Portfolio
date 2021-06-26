@@ -9,7 +9,7 @@ I like retro games, retro hardware and think the Arcade era faded too quickly. S
 **Playdemic / Traveller's Tales** Game Programmer (2017 - Present)
 - Undisclosed Project
 - Worked on a large range of diverse gameplay features
-- Worked with multiple game engines including Unity
+- Unity and other game engines
 - Unity DOTS/ECS technology
 
 **Finblade** Junior Games Programmer (2015 - 2017)
@@ -29,8 +29,8 @@ I like retro games, retro hardware and think the Arcade era faded too quickly. S
 
 **Ludophobia** Company Director, Programmer (2012 - 2014)
 - Beaulieu Car Museum racing game exhibit.
-- ‘Bears Can’t Drift’ An independent Ouya racing game with 4-player multiplayer.
-- An Oculus Rift off-road experience for JEEP, in conjunction with Cityscape
+- ‘Bears Can’t Drift’ - An independent Ouya racing game with 4-player multiplayer.
+- An Oculus Rift VR off-road experience for JEEP, in conjunction with Cityscape
 - An interactive visualization of a historical building in 1400’s era Southampton
 - Several other iOS/Android apps
 
@@ -40,7 +40,6 @@ Experienced With:
 * C# / .NET 
 * Unity Engine 
 * C++ 
-
 
 Competent With:
 * C
