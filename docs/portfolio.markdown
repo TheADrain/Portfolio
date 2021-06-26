@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-## Professional Projects
+## **Professional Projects**
 
 **Puzzler Name Game (Unity)**
 
@@ -36,7 +36,7 @@ Puzzler World is a suite of 15 different apps that host different kinds of puzzl
 
 
 
-## Personal Projects
+## **Personal Projects**
 
 **Gameboy Game (C/ASM, Tools in C#)**
 
