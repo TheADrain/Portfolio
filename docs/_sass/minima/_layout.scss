@@ -17,6 +17,9 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  
+  border: 1px solid $border-color-01;
+  border-radius: 50px;
 
   @include media-query($on-palm) {
     padding-right: 45px;
