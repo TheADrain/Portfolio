@@ -58,7 +58,7 @@ Iso-Chess was made in 2017 as a personal development project, just to see what i
 
 It can be found on itch.io [here](https://theadrain.itch.io/retro-chess) as a WebGL player, alternatively a Win64 build is also available.
 
-<img src="{{site.baseurl}}unity/iso_chess_1.gif" alt="Chess 1" width="250"/> <img src="{{site.baseurl}}unity/iso_chess_2.gif" alt="Chess 1" width="250"/>
+<img src="{{site.baseurl}}unity/iso_chess_1.gif" alt="Chess 1" width="270"/> <img src="{{site.baseurl}}unity/iso_chess_2.gif" alt="Chess 1" width="270"/>
 
 ---
 **Kitty Quest (Unity)**
@@ -67,4 +67,4 @@ Kitty Quest was made in just 7 days for Gameboy Jam 2016 using Unity and feature
 
 
 
-<img src="{{site.baseurl}}unity/kq2.gif" alt="Kitty Quest 1" width="220"/> <img src="{{site.baseurl}}unity/kq3.gif" alt="Kitty Quest 1" width="220"/> <img src="{{site.baseurl}}unity/kq4.gif" alt="Kitty Quest 1" height="176"/>
+<img src="{{site.baseurl}}unity/kq2.gif" alt="Kitty Quest 1" width="220"/> <img src="{{site.baseurl}}unity/kq3.gif" alt="Kitty Quest 1" width="220"/> <img src="{{site.baseurl}}unity/kq4.gif" alt="Kitty Quest 1" height="172"/>
