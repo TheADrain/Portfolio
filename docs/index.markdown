@@ -4,7 +4,6 @@ title: CV/Résumé
 order: 1
 ---
 I like retro games, retro hardware and think the Arcade era faded too quickly. Sometimes I do game jams. 
-
 ## Work History
 
 **Playdemic / Traveller's Tales** Game Programmer (2017 - Present)
