@@ -10,12 +10,12 @@ I like retro games, retro hardware and think the Arcade era faded too quickly. S
 - Undisclosed Project
 - Worked on a large range of diverse gameplay features
 - Worked with multiple game engines including Unity
-- Unity DOTS technology
+- Unity DOTS/ECS technology
 
 **Finblade** Junior Games Programmer (2015 - 2017)
-- Puzzler World (Maintenence, DLC)
-- Puzzler / Puzzle Paradise (Clientside development)
-- Puzzler Name Game (Clientside development)
+- Puzzler World
+- Puzzler / Puzzle Paradise
+- Puzzler Name Game
 - Several undisclosed projects
 - iOS, Android and Amazon devices
 - XCode, Objective C, Cocos2D
@@ -28,26 +28,33 @@ I like retro games, retro hardware and think the Arcade era faded too quickly. S
 - Simultaneous support for operating systems spanning Windows XP - Windows 8.1
 
 **Ludophobia** Company Director, Programmer (2012 - 2014)
-- An untitled racing game which was installed in Beaulieu Car Museum.
-- An interactive visualization of a historical building in 1400’s era Southampton
-- An independent Ouya racing game called ‘Bears Can’t Drift’ which included a 4-player split-screen.
+- Beaulieu Car Museum racing game exhibit.
+- ‘Bears Can’t Drift’ An independent Ouya racing game with 4-player multiplayer.
 - An Oculus Rift off-road experience for JEEP, in conjunction with Cityscape
+- An interactive visualization of a historical building in 1400’s era Southampton
 - Several other iOS/Android apps
 
 ## Skillset
 
-* C# / .NET (5 years)
-* Unity Engine (4 years)
-* C++ (3 years)
-* Perforce (2 years)
-* C (2 years)
-* Javascript (1 year)
-* PostgreSQL (1 year)
-* Limited Java, LUA and XML
-* Limited Photoshop experience
+Experienced With:
+* C# / .NET 
+* Unity Engine 
+* C++ 
+
+
+Competent With:
+* C
+* Perforce
+* Javascript
+
+Have also worked with:
+* PostgreSQL
+* Java, LUA and XML
+* Photoshop
+* Blender/3DS Max
 
 ## Education
 
-Southampton Solent University - BSc (Hons) Computer Games Programming
+Southampton Solent University - BSc (Hons) Computer Games Development
 
 First Class Honours Degree, 2008 - 2012
