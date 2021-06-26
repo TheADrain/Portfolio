@@ -3,7 +3,8 @@ layout: page
 title: CV/Résumé
 order: 1
 ---
-I like retro games, retro hardware and think the Arcade era faded too quickly. Sometimes I do game jams. 
+I like gameboys, spooky games, fighting games, game jams and speedrunning! I'm passionate about retro technology and preservation, and think the Arcade era faded too quickly. 
+
 ## Work History
 
 **Playdemic / Traveller's Tales** Game Programmer (2017 - Present)
