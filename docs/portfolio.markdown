@@ -39,11 +39,15 @@ Puzzler World is a suite of 15 different apps that host different kinds of puzzl
 ## **Personal Projects**
 
 **Gameboy Game (C/ASM, Tools in C#)**
+
 todo
+
 ---
 
 **Adventure Game Prototype (Unity)**
+
 todo
+
 <img src="{{site.baseurl}}unity/adventure_matchbox.gif" alt="Adventure Game 1" width="320"/>    <img src="{{site.baseurl}}unity/camerasadventure_mystery.gif" alt="Adventure Game 2" width="320"/> 
 
 ---
