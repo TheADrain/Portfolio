@@ -3,7 +3,7 @@ layout: page
 title: CV/Résumé
 order: 1
 ---
-I like gameboys, spooky games, fighting games, game jams and speedrunning! I'm passionate about retro technology and preservation, and think the Arcade era faded too quickly. 
+I like gameboys, spooky games, fighting games, game jams and speedrunning! I'm passionate about retro technology and preservation, and think the Arcade era faded too quickly. <img src="{{site.baseurl}}other/logo.png" alt="Puzzler Name Game" width="100"/>
 
 ## Work History
 
