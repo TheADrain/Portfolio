@@ -31,7 +31,7 @@ Puzzler World is a suite of 15 different apps that host different kinds of puzzl
 
 [Puzzler World App](https://www.puzzler.com/digital-apps/mixed-puzzles/puzzler-world)
 
-<img src="{{site.baseurl}}other/puzzlew1.PNG" alt="Puzzler World 1" height="200"> <img src="{{site.baseurl}}other/puzzlew2.PNG" alt="Puzzler World 2" height="200">
+<img src="{{site.baseurl}}other/puzzlew1.PNG" alt="Puzzler World 1" height="200">    <img src="{{site.baseurl}}other/puzzlew2.PNG" alt="Puzzler World 2" height="200">
 
 
 
