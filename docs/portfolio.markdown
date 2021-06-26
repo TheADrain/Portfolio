@@ -42,6 +42,8 @@ Puzzler World is a suite of 15 different apps that host different kinds of puzzl
 
 Built for the original Gameboy using a mix of C and ASM, using [GBDK](https://github.com/gbdk-2020/gbdk-2020) and compiled with the [Small Device C Compiler](https://en.wikipedia.org/wiki/Small_Device_C_Compiler)
 
+[Available to download here](https://github.com/TheADrain/portfolio/blob/main/docs/other/moonspear.gb) but must either be played with an emulator (I recommend BGB) or a real gameboy.
+
 <img src="{{site.baseurl}}other/gameboy4.gif" alt="gameboy1" width="350"/> <img src="{{site.baseurl}}other/gameboy5.gif" alt="gameboy2" width="350"/>    
 
 I also built a custom art pipeline and tools to handle converting [Tiled](https://www.mapeditor.org/) maps and associated tilesets over to 2BPP format, discarding duplicate tiles and generating collision data.
