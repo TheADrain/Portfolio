@@ -40,15 +40,19 @@ Puzzler World is a suite of 15 different apps that host different kinds of puzzl
 
 **Moonspear (Gameboy, C/ASM/Tools in C#)**
 
-todo
+Built for the original Gameboy using a mix of C and ASM, using [GBDK](https://github.com/gbdk-2020/gbdk-2020) and compiled with the [Small Device C Compiler](https://en.wikipedia.org/wiki/Small_Device_C_Compiler)
 
 <img src="{{site.baseurl}}other/gameboy4.gif" alt="gameboy1" width="350"/> <img src="{{site.baseurl}}other/gameboy5.gif" alt="gameboy2" width="350"/>    
+
+I also built a custom art pipeline that handles converting Tiled maps and associated tile sets, discarding duplicate tiles and producing collision data to either binary format, or ASM or C code.
+
+todo: images
 
 ---
 
 **Adventure Game Prototype (Unity, PC)**
 
-todo
+Inventory system, Camera Blending, Item Inspection mechanic
 
 [Available to download from itch.io](https://theadrain.itch.io/adventure-game-prototype)
 
