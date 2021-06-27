@@ -4,5 +4,5 @@ title: Contact
 permalink: /contact/
 ---
 
-Email: [theadrain@hotmail.co.uk](mailto:theadrain@hotmail.co.uk)
+Email: [theadraindev@gmail.com](mailto:theadraindev@gmail.com)
 
