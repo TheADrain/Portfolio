@@ -46,11 +46,9 @@ Built for the original Gameboy using a mix of C and ASM, using [GBDK](https://gi
 
 <img src="{{site.baseurl}}other/gameboy4.gif" alt="gameboy1" height="300"/> <img src="{{site.baseurl}}other/gameboy5.gif" alt="gameboy2" height="300"/>   
 
-The engine supports a maximum of 10 animated characters using the 40 available hardware sprites. <img src="{{site.baseurl}}other/gameboy6.gif" alt="gameboy6" height="300"/>
+I built an actor system that supports a maximum of 10 animated characters using the 40 available hardware sprites, and a custom art pipeline and tools to handle converting [Tiled](https://www.mapeditor.org/) maps and associated tilesets over to 2BPP format, discarding duplicate tiles and generating collision data.
 
-I also built a custom art pipeline and tools to handle converting [Tiled](https://www.mapeditor.org/) maps and associated tilesets over to 2BPP format, discarding duplicate tiles and generating collision data.
-
-<img src="{{site.baseurl}}other/tools1.PNG" alt="tools1" height="300"/>   
+<img src="{{site.baseurl}}other/gameboy6.gif" alt="gameboy6" height="280"/> <img src="{{site.baseurl}}other/tools1.PNG" alt="tools1" height="280"/>   
 
 ---
 
