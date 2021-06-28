@@ -63,4 +63,5 @@ Have also worked with:
 ## Education
 
 BSc (Hons) Computer Games Development - First Class Honours Degree
+
 Southampton Solent University (2008 - 2012)
