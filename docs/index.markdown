@@ -16,9 +16,10 @@ order: 1
 
 **Playdemic / Traveller's Tales** Game Programmer (2017 - Present)
 - Undisclosed Project
-- Worked on a large range of diverse gameplay features
+- Worked on a large range of diverse gameplay features including cameras, character customisation, and AI
 - Unity and other game engines
 - Unity DOTS/ECS technology
+- Unity Editor tools
 
 **Finblade** Junior Games Programmer (2015 - 2017)
 - Puzzler World
