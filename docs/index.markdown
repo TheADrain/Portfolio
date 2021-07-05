@@ -16,7 +16,10 @@ order: 1
 
 **Playdemic / Traveller's Tales** Game Programmer (2017 - Present)
 - Undisclosed Project
-- Worked on a large range of diverse gameplay features including cameras, character customisation, and AI
+- Worked on a large range of diverse gameplay features including:
+    - cameras
+    - character customisation, 
+    - developed the AI system
 - Unity and other game engines
 - Unity DOTS/ECS technology
 - Unity Editor tools
