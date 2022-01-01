@@ -5,7 +5,7 @@ Courtyard
 
 [Courtyard Zip](https://github.com/TheADrain/quakemaps/blob/main/courtyard.zip)
 
-Fortress Interior
+## Fortress Interior
 (single player)
 
 [Fortress Interior Zip](https://github.com/TheADrain/quakemaps/blob/main/fortress.zip)
