@@ -13,4 +13,4 @@
 # Compact Challenge Map
 (single player, map built within a 1024 unit cube)
 
-[Compact Challenge Map Zip]()
+[Compact Challenge Map Zip](https://github.com/TheADrain/quakemaps/blob/main/COMPACT.zip)
