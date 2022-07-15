@@ -38,6 +38,8 @@ Puzzler World is a suite of 15 different apps that host different kinds of puzzl
 
 ## **Personal Projects**
 
+You can find more projects over on my [itch.io page](https://theadrain.itch.io/)
+
 **Moonspear (Gameboy, C/ASM/Tools in C#)**
 
 Built for the original Gameboy using a mix of C and ASM, using [GBDK](https://github.com/gbdk-2020/gbdk-2020) and compiled with the [Small Device C Compiler](https://en.wikipedia.org/wiki/Small_Device_C_Compiler)
