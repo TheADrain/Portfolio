@@ -90,7 +90,11 @@ I've been using Trenchbroom since late 2021 with a specific focus on making vani
 
 <img src="{{site.baseurl}}other/14_07_22_2.PNG" alt="Quake Image 3" height="220"/><img src="{{site.baseurl}}other/14_07_22_3.PNG" alt="Quake Image 4" height="220"/>
 
-<img src="{{site.baseurl}}other/19.PNG" alt="Quake Image51" height="220"/><img src="{{site.baseurl}}other/9.PNG" alt="Quake Image 6" width="240"/>
+<img src="{{site.baseurl}}other/19.PNG" alt="Quake Image51" height="220"/><img src="{{site.baseurl}}other/9.PNG" alt="Quake Image 6" width="320"/>
 
-<img src="{{site.baseurl}}other/frt5.PNG" alt="Quake Image 7" height="220"/>
+<img src="{{site.baseurl}}other/frt5.PNG" alt="Quake Image 7" height="220"/><img src="{{site.baseurl}}other/frt14.PNG" alt="Quake Image 7" height="220"/>
+
+<img src="{{site.baseurl}}other/dropplat1.gif" alt="Quake Image 7" height="220"/><img src="{{site.baseurl}}other/pit.gif" alt="Quake Image 7" height="220"/>
+
+<img src="{{site.baseurl}}other/wobbly4.gif" alt="Quake Image 7" height="220"/>
 
