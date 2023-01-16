@@ -84,7 +84,7 @@ Kitty Quest was made in just 7 days for Gameboy Jam 2016 using Unity and feature
 ---
 **Quake Maps**
 
-I've been using Trenchbroom since late 2021 with a specific focus on making vanilla-style maps for Quake that look and feel like something out of the original game (with a few more brushes) you can find all my maps, and (when it releases later in 2022) my 5-map episode 'Cold Light' over at my [Slipgate Sightseer](https://www.slipseer.com/index.php?members/theadrain.174/#resources) profile.
+I've been using Trenchbroom since late 2021 with a specific focus on making vanilla-style maps for Quake that look and feel like something out of the original game (with a few more brushes) you can find all my maps, and my 4-map episode 'Cold Light' over at my [Slipgate Sightseer](https://www.slipseer.com/index.php?members/theadrain.174/#resources) profile.
 
 <img src="{{site.baseurl}}other/08_06_22_2.PNG" alt="Quake Image 1" height="220"/><img src="{{site.baseurl}}other/10_06_22_1.PNG" alt="Quake Image 2" height="220"/>
 
