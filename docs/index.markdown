@@ -8,13 +8,19 @@ order: 1
     <img style='float:right; padding-left:50px;' src="{{site.baseurl}}other/logo.png" alt="Puzzler Name Game" height="150"/>
   </div>
   <div class="column">
-    <p>I like gameboys, spooky games, fighting games, game jams and speedrunning! I'm passionate about retro technology and preservation, and think the Arcade era faded too quickly. </p>
+    <p>I like gameboys, cute things, spooky things, fighting games, game jams and speedrunning! I'm passionate about retro technology and preservation, and think the Arcade era faded too quickly. </p>
   </div>
 </div>
 
 ## Work History
 
-**Playdemic / Traveller's Tales** Game Programmer (2017 - Present)
+**Playdemic /EA** Game Programmer (2021 - Present)
+- Golf Clash
+- Minor Engine/Tools development
+- Using in-house engine tools with C to develop game features and UI
+- Worked on the 'Free Trial Ball' and 'Checkpoint Challenge' features
+
+**Playdemic / Traveller's Tales** Game Programmer (2017 - 2021)
 - Undisclosed Project
 - Worked on a large range of diverse gameplay features including:
     - cameras
