@@ -10,9 +10,7 @@ permalink: /portfolio/
 
 <img src="{{site.baseurl}}other/gc2.JPG" alt="GolfClash" width="400"/>
 
-Golf Clash is one of the leading mobile games in the US and UK with over 100 million downloads globally. I have contributed to several game features using the in-house engine, including 'Checkpoint Challenge' and have developed internal tools and contributed to engine development using both C and C#.
-
-<img src="{{site.baseurl}}other/gc1.JPG" alt="GolfClash" width="200"/>   <img src="{{site.baseurl}}other/gccpc.JPG" alt="GolfClash" width="300"/>
+[Golf Clash](https://www.ea.com/en-gb/games/golf-clash) is one of the leading mobile games in the US and UK with over 100 million downloads globally. I have contributed to several game features using the in-house engine, including 'Checkpoint Challenge' and have developed internal tools and contributed to engine development using both C and C#.
 
 **Puzzler Name Game (Unity, iOS/Android/Amazon)**
 
