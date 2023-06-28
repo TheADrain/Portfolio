@@ -8,7 +8,7 @@ order: 1
     <img style='float:right; padding-left:50px;' src="{{site.baseurl}}other/logo.png" alt="Puzzler Name Game" height="150"/>
   </div>
   <div class="column">
-    <p>I am a non-binary gameplay programmer based in the UK who likes gameboys, cute things, spooky things, fighting games, game jams and speedrunning! I'm passionate about retro technology and game preservation, and think the Arcade era faded too quickly. </p>
+    <p>I am a non-binary gameplay programmer based in the UK who likes gameboys, cute things, spooky things, fighting games, game jams and speedrunning! I'm passionate about retro technology and game preservation, and think the Arcade era faded too quickly. Passionate about creating engaging gameplay and have a knack for quickly adapting to new environments and technologies. </p>
   </div>
 </div>
 
@@ -66,6 +66,9 @@ Competent With:
 * Javascript
 
 Have also worked with:
+* Unreal Engine 4/5
+* Various in-house engines
+* Cocos2D
 * PostgreSQL
 * Java, LUA and XML
 * Photoshop
