@@ -8,7 +8,7 @@ order: 1
     <img style='float:right; padding-left:50px;' src="{{site.baseurl}}other/logo.png" alt="Puzzler Name Game" height="150"/>
   </div>
   <div class="column">
-    <p>I like gameboys, cute things, spooky things, fighting games, game jams and speedrunning! I'm passionate about retro technology and preservation, and think the Arcade era faded too quickly. </p>
+    <p>I am a non-binary gameplay programmer based in the UK who likes gameboys, cute things, spooky things, fighting games, game jams and speedrunning! I'm passionate about retro technology and game preservation, and think the Arcade era faded too quickly. </p>
   </div>
 </div>
 
