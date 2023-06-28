@@ -6,6 +6,10 @@ permalink: /portfolio/
 
 ## **Professional Projects**
 
+**Golf Clash (iOS/Android/PC)**
+Golf Clash is one of the leading mobile games in the US and UK with over 100 million downloads globally. I have contributed to several game features using the in-house engine, including 'Checkpoint Challenge' and have developed internal tools and contributed to engine development using both C and C#.
+
+
 **Puzzler Name Game (Unity, iOS/Android/Amazon)**
 
 Made in 2017 for Puzzler under Finblade, this was the studios first Unity project with a development time of around 3 months on which I was responsible for the entirety of the client application. No longer available, however a trailer is still viewable on [YouTube](https://www.youtube.com/watch?v=f-LweWh4FoE) 
