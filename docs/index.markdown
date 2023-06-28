@@ -16,16 +16,18 @@ order: 1
 
 **Playdemic /EA** Game Programmer (2021 - Present)
 - Golf Clash
-- Minor Engine/Tools development
+- C/C++/C#
+- Broad range of responsibilities including tools and game feature development
 - Using in-house engine tools with C to develop game features and UI
 - Worked on the 'Free Trial Ball' and 'Checkpoint Challenge' features
+- Worked on internal data management tool
 
 **Playdemic / Traveller's Tales** Game Programmer (2017 - 2021)
 - Undisclosed Project
 - Worked on a large range of diverse gameplay features including:
-    - cameras
-    - character customisation, 
-    - developed the AI system
+    - Camera Systems
+    - Character Customisation
+    - Created Utility AI system using DOTS technology
 - Unity and other game engines
 - Unity DOTS/ECS technology
 - Unity Editor tools
@@ -46,22 +48,21 @@ order: 1
 - Simultaneous support for operating systems spanning Windows XP - Windows 8.1
 
 **Ludophobia** Company Director, Programmer (2012 - 2014)
-- Beaulieu Car Museum racing game exhibit.
+- Beaulieu Car Museum racing game
 - ‘Bears Can’t Drift’ - An independent Ouya racing game with 4-player multiplayer.
 - An Oculus Rift VR off-road experience for JEEP, in conjunction with Cityscape
-- An interactive visualization of a historical building in 1400’s era Southampton
-- Several other iOS/Android apps
+- Interactive visualization of a historical building in 1400’s era Southampton
+- iOS/Android apps
 
 ## Skillset
 
 Experienced With:
 * C# / .NET 
 * Unity Engine 
-* C++ 
+* C/C++ 
 
 Competent With:
-* C
-* Perforce
+* Perforce/SVN/Git
 * Javascript
 
 Have also worked with:
